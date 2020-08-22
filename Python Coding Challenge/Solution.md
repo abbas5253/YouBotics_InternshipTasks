@@ -1,10 +1,10 @@
-###Problem Statement:
+<b>Problem Statement:</b>
 
 Write a function that divides a sentence into word container with each
 container containing "n" or fewer characters. Only include "full words"
 inside each container.
 
-###Code:
+<b>Code:</b>
 
 ```python
 def split_into_container(input_string: str, n: int,) -> list:
