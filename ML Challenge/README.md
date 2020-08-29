@@ -4,12 +4,10 @@
 git clone https://github.com/abbas5253/emotion-detector-youbotics.git
 ```
 
-## Face-Emotion-Detector
+## Emotion Detector
 
 ### Prerequisites
 You mast have pytorch and opencv-python installed
-
-## Emotion Detector
 
 ### Project Structure
 This project has four major parts :
