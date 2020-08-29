@@ -6,7 +6,7 @@
 
 
 > I expected that it may ask me questions related to my previous answer
-   - If I made a mistake or said an something wrong w.r.t a question, then it should confirm me and
+   > If I made a mistake or said an something wrong w.r.t a question, then it should confirm me and
      ask me next couple of questions so that I may realize that I may have given an wrong answer.
      
 > During the interview I felt it boring, because there was no two way interactions. I had feeling, that it is just recording and sending the audio to the hiring team.
